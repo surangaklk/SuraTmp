@@ -10,6 +10,7 @@ namespace WebApplication1.Controllers
     [Authorize]
     public class ValuesController : ApiController
     {
+		// comment by suranga
         // GET api/values
         public IEnumerable<string> Get()
         {
