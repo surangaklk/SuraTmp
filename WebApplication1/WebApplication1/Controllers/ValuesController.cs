@@ -13,6 +13,7 @@ namespace WebApplication1.Controllers
 		//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 		// comment by suranga
         // GET api/values
+		//  comment in master branch
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
