@@ -16,6 +16,9 @@ namespace WebApplication1.Controllers
 		//  comment in master branch
 <<<<<<< HEAD
         public IEnumerable<string> Get()//add
+=======
+        public IEnumerable<string> Get()//mast
+>>>>>>> master
         {
             return new string[] { "value1", "value2" };
         }
